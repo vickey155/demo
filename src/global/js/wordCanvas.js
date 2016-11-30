@@ -10,7 +10,6 @@
      var lastTime = 0;
      var lastLineW = -1;
 
-
      var drawRiceGrid = function(){
          wordContext.save();
          wordContext.strokeStyle = 'red';
